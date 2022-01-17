@@ -8,7 +8,10 @@
 ## Preface and Introduction
 Hello everyone, I'm Gu Wenjing, this is my first personal project in the m1 stage and my first independently developed game.  
 I used software **scratch** to build this game. This is my first try, although there some bugs in the game, I had done my best.  
-The blabla game is a quiz game with the aim of deepening mutual understanding between peoples of different countries to reduce cultural gaps. Because I experienced a lot of cultural shock when I first came to France and tried to solve it in my own way. From my own experience, I wanted to help more students, so I made this game.
+The blabla game is a quiz game with the aim of deepening mutual understanding between peoples of different countries to reduce cultural gaps. Because I experienced a lot of cultural shock when I first came to France and tried to solve it in my own way. From my own experience, I wanted to help more students, so I made this game.   
+
+[![Introducr](https://user-images.githubusercontent.com/97441887/149711097-894688c1-554e-4a60-a280-3d46210c8ea3.JPG)](https://www.youtube.com/watch?v=2OMeeiIvb2A)
+
 ## Players
 A French and a Chinese
 ## How to play
